@@ -1,0 +1,25 @@
+{
+    "name": "tecnosisweb/frameworkthurim",
+    "description": "Framework Thurim PHP",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arthur Fabiano",
+            "email": "contato@tecnosisweb.com.br"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": "^7.2.5",
+        "ext-json": "*",
+        "illuminate/database": "^7.6",
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    }
+}
