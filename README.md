@@ -4,11 +4,9 @@ This README would normally document whatever steps are necessary to get your app
 
 ### O QUE JÁ FOI FEITO NO PROJETO ###
 
-* Quick summary
 
 ### COISAS AINDA PARA FAZER ###
 
-* Summary of set up
 
 ### ANOTAÇÕES
 
